@@ -23,3 +23,14 @@
 | 9 | **Assignment 9.1** | Documentation Generation (Docstrings, Inline Comments, Google-Style & pydoc HTML) | [📄 2503A52364_Assignment9.1.docx](./2503A52364_Assignment9.1.docx) |
 | 10 | **Assignment 10.1** | Code Review and Quality (Refactoring, PEP 8, Performance & Complexity Reduction) | [📄 2503A52364_Assignment10.1.docx](./2503A52364_Assignment10.1.docx) |
 | 11 | **Assignment 11.1** | Data Structures with AI (Implementing Fundamental Structures & Real-Time Challenges) | [📄 2503A52364_Assignment11.1.docx](./2503A52364_Assignment11.1.docx) |
+| 12 | **Assignment 12.1** | Lab assignment | [📄 2503A52364_Assignment12.1.docx](./2503A52364_Assignment12.1.docx) |
+| 13 | **Assignment 13.1** | Lab assignment | [📄 2503A52364_Assignment13.1.docx](./2503A52364_Assignment13.1.docx) |
+| 14 | **Assignment 14.1** | Lab assignment | [📄 2503A52364_Assignment14.1.docx](./2503A52364_Assignment14.1.docx) |
+| 15 | **Assignment 15.1** | Lab assignment | [📄 2503A52364_Assignment15.1.docx](./2503A52364_Assignment15.1.docx) |
+| 16 | **Assignment 16.1** | Lab assignment | [📄 2503A52364_Assignment16.1.docx](./2503A52364_Assignment16.1.docx) |
+| 17 | **Assignment 17.1** | Lab assignment | [📄 2503A52364_Assignment17.1.docx](./2503A52364_Assignment17.1.docx) |
+| 18 | **Assignment 18.1** | Lab assignment | [📄 2503A52364_Assignment18.1.docx](./2503A52364_Assignment18.1.docx) |
+| 19 | **Assignment 19.1** | Lab assignment | [📄 2503A52364_Assignment19.1.docx](./2503A52364_Assignment19.1.docx) |
+| 20 | **Assignment 20.1** | Lab assignment | [📄 2503A52364_Assignment20.1.docx](./2503A52364_Assignment20.1.docx) |
+| 21 | **Assignment 21.1** | Lab assignment | [📄 2503A52364_Assignment21.1.docx](./2503A52364_Assignment21.1.docx) |
+| 22 | **Assignment 22.1** | Lab assignment | [📄 2503A52364_Assignment22.1.docx](./2503A52364_Assignment22.1.docx) |
